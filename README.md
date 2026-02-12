@@ -12,7 +12,7 @@ I designed and manually configured a secure 2-tier network on AWS. The goal was 
 - **Security:** Used Security Group Referencing (DB only accepts traffic from App SG).
 
 ## 📊 Network Diagram
-./images/APPFLOW.png
+images/APPFLOW.png
 
 ## 🛡️ Security Implementation
 - **Isolation:** The DB has no Route Table entry for the Internet Gateway.
